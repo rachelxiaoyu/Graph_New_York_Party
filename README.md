@@ -1,2 +1,4 @@
 # Graph_New_York_Party
-This project aims to characterize the graph properties of the New York social network.
+Overview
+
+This project aims to analyze the social network properties of New York’s social elite. 
