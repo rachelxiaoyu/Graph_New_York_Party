@@ -9,3 +9,6 @@ The holiday party pictures contains photos of the NY celebrities from 2007 to 20
 In this project, the captions of the photos were first scraped from the website. I have selected photos from parties before Dec 1st, 2014. I have further developed several rules to filter out the effective captions (captions that contain network information). The total number of valid captions was 93,093. The name was further grabbed from the captions and we have found a total of 113,031 names in the social network. Finally, I performed the graph analysis using networkx. The graph visualization can be viewed using the following [link].
 
 
+# Result
+
+The figure below shows a capture of the graph distribution. 
