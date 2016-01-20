@@ -11,4 +11,4 @@ In this project, the captions of the photos were first scraped from the website.
 
 # Result
 
-The figure below shows a capture of the graph distribution. 
+The figure below shows a capture of the graph distribution.  ![image](https://cloud.githubusercontent.com/assets/14169124/12463445/7ca5fbf4-bf91-11e5-979b-422f07e02e2b.png)
