@@ -20,9 +20,9 @@ Here are some interesting results:
 # Degree
 
 Top 10 people with most number of friends:
-'Jean Shafiroff' 591 
-'Mark Gilbertson' 448 
-'Gillian Miniter' 399
-'Geoffrey Bradfield', 331
-(Alexandra Lebenthal', 318
+'Jean Shafiroff' 591   
+'Mark Gilbertson' 448   
+'Gillian Miniter' 399  
+'Geoffrey Bradfield', 331  
+(Alexandra Lebenthal', 318  
 
