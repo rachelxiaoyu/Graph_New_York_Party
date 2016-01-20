@@ -11,4 +11,18 @@ In this project, the captions of the photos were first scraped from the website.
 
 # Result
 
-The figure below shows a capture of the graph distribution.  ![image](https://cloud.githubusercontent.com/assets/14169124/12463445/7ca5fbf4-bf91-11e5-979b-422f07e02e2b.png)
+The figure below shows a capture of the graph distribution using SVG forced direct graph ![image](https://cloud.githubusercontent.com/assets/14169124/12463445/7ca5fbf4-bf91-11e5-979b-422f07e02e2b.png)
+
+
+I have further quantified the graph properties in terms of the degree, page rank, and similarities of friends. 
+
+Here are some interesting results:
+# Degree
+
+Top 10 people with most number of friends:
+'Jean Shafiroff' 591 
+'Mark Gilbertson' 448 
+'Gillian Miniter' 399
+'Geoffrey Bradfield', 331
+(Alexandra Lebenthal', 318
+
